@@ -1,0 +1,2 @@
+以下是你（assistant）之前与用户（user）之间的对话
+{full_history}
